@@ -1,8 +1,4 @@
-# 🎓 7th Semester Projects — Turing Workspace
 
-> A collection of web development projects built during the 7th semester.
-
----
 
 ## 📁 Projects
 
